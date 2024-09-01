@@ -180,3 +180,9 @@
 [18:08:14] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39538|Admin_server] -> UpstreamBridge has disconnected
 [18:08:14] [Netty Worker IO Thread #1/INFO]: [Admin_server] disconnected with: Proxy lost connection to server.
 [18:08:14] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39538|Admin_server] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:17:02] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:55578|ItsNikoPlayzYT] -> UpstreamBridge has disconnected
+[18:17:02] [Netty Worker IO Thread #2/INFO]: [ItsNikoPlayzYT] disconnected with: Proxy lost connection to server.
+[18:17:02] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:55578|ItsNikoPlayzYT] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:17:15] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:34114|Loki744950950] -> UpstreamBridge has disconnected
+[18:17:15] [Netty Worker IO Thread #0/INFO]: [Loki744950950] disconnected with: Proxy lost connection to server.
+[18:17:15] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:34114|Loki744950950] <-> DownstreamBridge <-> [lobby] has disconnected
