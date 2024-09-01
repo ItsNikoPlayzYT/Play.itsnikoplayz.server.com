@@ -107,3 +107,41 @@
 [21:23:30] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59244]: Logged in as 'RubitosanPlayz'
 [21:23:30] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59244|RubitosanPlayz] -> UpstreamBridge has connected
 [21:23:30] [Netty Worker IO Thread #3/INFO]: [RubitosanPlayz|/[0:0:0:0:0:0:0:1%0]:59244] <-> ServerConnector [lobby] has connected
+[21:30:52] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59244|RubitosanPlayz] -> UpstreamBridge has disconnected
+[21:30:52] [Netty Worker IO Thread #3/INFO]: [RubitosanPlayz] disconnected with: Proxy lost connection to server.
+[21:30:52] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59244|RubitosanPlayz] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:31:04] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41344|ItsNikoPlayzYT] -> UpstreamBridge has disconnected
+[21:31:04] [Netty Worker IO Thread #0/INFO]: [ItsNikoPlayzYT] disconnected with: Proxy lost connection to server.
+[21:31:04] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41344|ItsNikoPlayzYT] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:31:09] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51136]: Connected via websocket
+[21:31:09] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51136]: Origin header is https://eaglercraft.com
+[21:31:09] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51136]: Logged in as 'ItsNikoPlayzYT'
+[21:31:09] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:51136|ItsNikoPlayzYT] -> UpstreamBridge has connected
+[21:31:09] [Netty Worker IO Thread #3/INFO]: [ItsNikoPlayzYT|/[0:0:0:0:0:0:0:1%0]:51136] <-> ServerConnector [lobby] has connected
+[21:31:18] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52446]: Connected via websocket
+[21:31:18] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52446]: Origin header is https://eaglercraft.com
+[21:31:18] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52446]: Logged in as 'RubitosanPlayz'
+[21:31:18] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52446|RubitosanPlayz] -> UpstreamBridge has connected
+[21:31:18] [Netty Worker IO Thread #1/INFO]: [RubitosanPlayz|/[0:0:0:0:0:0:0:1%0]:52446] <-> ServerConnector [lobby] has connected
+[21:31:49] [Netty Worker IO Thread #1/INFO]: [RubitosanPlayz] disconnected with: Login timed out!
+[21:31:49] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52446|RubitosanPlayz] -> UpstreamBridge has disconnected
+[21:31:49] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52446|RubitosanPlayz] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:31:53] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53410]: Connected via websocket
+[21:31:53] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53410]: Origin header is https://eaglercraft.com
+[21:31:53] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53410]: Logged in as 'RubitosanPlayz'
+[21:31:53] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:53410|RubitosanPlayz] -> UpstreamBridge has connected
+[21:31:53] [Netty Worker IO Thread #2/INFO]: [RubitosanPlayz|/[0:0:0:0:0:0:0:1%0]:53410] <-> ServerConnector [lobby] has connected
+[21:39:32] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:53410|RubitosanPlayz] -> UpstreamBridge has disconnected
+[21:39:32] [Netty Worker IO Thread #2/INFO]: [RubitosanPlayz] disconnected with: Proxy lost connection to server.
+[21:39:32] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:53410|RubitosanPlayz] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:39:55] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57886]: Connected via websocket
+[21:39:55] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57886]: Origin header is https://eaglercraft.com
+[21:39:56] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57886]: Logged in as 'RubitosanPlayz'
+[21:39:56] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57886|RubitosanPlayz] -> UpstreamBridge has connected
+[21:39:56] [Netty Worker IO Thread #3/INFO]: [RubitosanPlayz|/[0:0:0:0:0:0:0:1%0]:57886] <-> ServerConnector [lobby] has connected
+[21:55:32] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57886|RubitosanPlayz] -> UpstreamBridge has disconnected
+[21:55:32] [Netty Worker IO Thread #3/INFO]: [RubitosanPlayz] disconnected with: Proxy lost connection to server.
+[21:55:32] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57886|RubitosanPlayz] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:58:03] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:51136|ItsNikoPlayzYT] -> UpstreamBridge has disconnected
+[21:58:03] [Netty Worker IO Thread #3/INFO]: [ItsNikoPlayzYT] disconnected with: Proxy lost connection to server.
+[21:58:03] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:51136|ItsNikoPlayzYT] <-> DownstreamBridge <-> [lobby] has disconnected

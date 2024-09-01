@@ -355,3 +355,270 @@
 [21:28:08] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
 [21:28:33] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
 [21:28:54] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:30:52] [Server thread/INFO]: RubitosanPlayz lost connection: Disconnected
+[21:30:52] [Server thread/INFO]: RubitosanPlayz left the game.
+[21:31:04] [Server thread/INFO]: ItsNikoPlayzYT lost connection: Disconnected
+[21:31:04] [Server thread/INFO]: ItsNikoPlayzYT left the game.
+[21:31:09] [Thread-16/INFO]: UUID of player ItsNikoPlayzYT is 50cb3cdc-83f0-3684-aa29-8188a37d0984
+[21:31:09] [Server thread/INFO]: ItsNikoPlayzYT[/[0:0:0:0:0:0:0:1]:52250] logged in with entity id 2190 at ([world]-233.5370465380305, 63.0, 241.29146040175684)
+[21:31:18] [Thread-17/INFO]: UUID of player RubitosanPlayz is f43303d6-2e26-32ba-af33-56bfc81d598f
+[21:31:18] [Server thread/INFO]: RubitosanPlayz[/[0:0:0:0:0:0:0:1]:38454] logged in with entity id 2193 at ([world]-248.8482915217275, 63.0, 238.73310804574243)
+[21:31:49] [Server thread/INFO]: RubitosanPlayz lost connection: Login timed out!
+[21:31:49] [Server thread/INFO]: RubitosanPlayz left the game.
+[21:31:49] [Server thread/WARN]: handleDisconnection() called twice
+[21:31:53] [Thread-18/INFO]: UUID of player RubitosanPlayz is f43303d6-2e26-32ba-af33-56bfc81d598f
+[21:31:53] [Server thread/INFO]: RubitosanPlayz[/[0:0:0:0:0:0:0:1]:36234] logged in with entity id 2263 at ([world]-248.8482915217275, 63.0, 238.73310804574243)
+[21:32:21] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:32:38] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /give @p netherite
+[21:32:38] [Server thread/INFO]: [ItsNikoPlayzYT: There is no such item with name minecraft:netherite]
+[21:32:47] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /give @p netherite
+[21:32:47] [Server thread/INFO]: [ItsNikoPlayzYT: There is no such item with name minecraft:netherite]
+[21:33:02] [Async Chat Thread - #5/INFO]: <RubitosanPlayz> no netherite in this[m
+
+[21:33:24] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /time set day
+[21:33:24] [Server thread/INFO]: [ItsNikoPlayzYT: Set the time to 1000]
+[21:33:43] [Server thread/INFO]: [0;33;1m----------[m Help: page 1/6  [0;33;1m--------------------[m[m
+
+[21:33:43] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m//: [mToggle the super pickaxe function[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m/.s: [mExecute last CraftScript[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m/ascend: [mGo up a floor[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m/biomeinfo: [mGet the biome of the targeted block.[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m/biomelist: [mGets all biomes available.[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m/brush: [mBrushing commands[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m/butcher: [mKill all or nearby mobs[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m//calc: [mEvaluate a mathematical expression[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m/ceil: [mGo to the celing[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m//center: [mSet the center block(s)[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m//chunk: [mSet the selection to your current chunk.[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m/chunkinfo: [mGet information about the chunk that you are inside[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m/clearclipboard: [mClear your clipboard[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m//clearhistory: [mClear your history[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m//contract: [mContract the selection area[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m//copy: [mCopy the selection to the clipboard[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m//count: [mCounts the number of a certain type of block[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m/cs: [mExecute a CraftScript[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m//curve: [mDraws a spline through selected points[m
+
+[21:33:43] [Server thread/INFO]: [0;33;22m//cut: [mCut the selection to the clipboard[m
+
+[21:33:46] [Server thread/INFO]: [0;33;1m----------[m Help: page 2/6  [0;33;1m--------------------[m[m
+
+[21:33:46] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m/cycler: [mBlock data cycler tool[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//cyl: [mGenerates a cylinder.[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//deform: [mDeforms a selected region with an expression[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m/delchunks: [mDelete chunks that your selection includes[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m/deltree: [mFloating tree remover tool[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m/descend: [mGo down a floor[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//distr: [mGet the distribution of blocks in the selection[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//drain: [mDrain a pool[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//ex: [mExtinguish nearby fire[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//expand: [mExpand the selection area[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//faces: [mBuild the walls, ceiling, and floor of a selection[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m/farwand: [mWand at a distance tool[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//fast: [mToggle fast mode[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//fill: [mFill a hole[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//fillr: [mFill a hole recursively[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//fixlava: [mFix lava to be stationary[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//fixwater: [mFix water to be stationary[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//flip: [mFlip the contents of the clipboard[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m/floodfill: [mFlood fill tool[m
+
+[21:33:46] [Server thread/INFO]: [0;33;22m//flora: [mMake flora within the region[m
+
+[21:34:36] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush fire 1
+[21:35:02] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush ex 2
+[21:35:54] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /give @p stick
+[21:35:54] [Server thread/INFO]: [ItsNikoPlayzYT: Given [Stick] * 1 to ItsNikoPlayzYT]
+[21:35:57] [Server thread/INFO]: RubitosanPlayz issued server command: /brush cylinder 4
+[21:36:06] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /enchant @p minecraft:knockback 2
+[21:36:06] [Server thread/INFO]: [ItsNikoPlayzYT: The selected enchantment can't be added to the target item]
+[21:36:18] [Async Chat Thread - #6/INFO]: <RubitosanPlayz> i can make floor :)[m
+
+[21:36:31] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:36:35] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:36:37] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:36:39] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:36:42] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:36:43] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:36:45] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:36:47] [Server thread/INFO]: RubitosanPlayz issued server command: /udno
+[21:36:50] [Server thread/INFO]: RubitosanPlayz issued server command: /undfo
+[21:36:52] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:36:54] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:36:56] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:37:02] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set cobblestone 0
+[21:37:04] [Server thread/INFO]: RubitosanPlayz issued server command: //undo
+[21:37:08] [Server thread/INFO]: RubitosanPlayz issued server command: ///undo
+[21:37:09] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set cobblestone
+[21:37:17] [Server thread/INFO]: RubitosanPlayz issued server command: /////undo
+[21:37:22] [Server thread/INFO]: RubitosanPlayz issued server command: ////undo
+[21:37:27] [Server thread/INFO]: RubitosanPlayz issued server command: /weather clear
+[21:37:27] [Server thread/INFO]: [RubitosanPlayz: Changing to clear weather]
+[21:37:32] [Server thread/INFO]: RubitosanPlayz issued server command: ///undo
+[21:37:51] [Server thread/INFO]: RubitosanPlayz issued server command: /help
+[21:37:58] [Server thread/INFO]: RubitosanPlayz issued server command: /worldedit
+[21:38:01] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //brush cylinder cobblestone 5
+[21:38:50] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //brush cylinder cobblestone 1
+[21:39:02] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush cylinder cobblestone 1
+[21:39:23] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush cylinder netherrack 1
+[21:39:32] [Server thread/INFO]: RubitosanPlayz lost connection: Disconnected
+[21:39:32] [Server thread/INFO]: RubitosanPlayz left the game.
+[21:39:33] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:39:42] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:39:56] [Thread-20/INFO]: UUID of player RubitosanPlayz is f43303d6-2e26-32ba-af33-56bfc81d598f
+[21:39:56] [Server thread/INFO]: RubitosanPlayz[/[0:0:0:0:0:0:0:1]:60368] logged in with entity id 2632 at ([world]-232.81333594294208, 63.0, 247.69006175321144)
+[21:40:39] [Server thread/INFO]: RubitosanPlayz issued server command: //undo
+[21:40:43] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:40:45] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set cobblestone
+[21:40:55] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set cobblestone
+[21:41:03] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set cobblestone
+[21:41:04] [Server thread/INFO]: RubitosanPlayz issued server command: /brush cylinder diamond
+[21:41:09] [Server thread/INFO]: RubitosanPlayz issued server command: /undpo
+[21:41:11] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:41:13] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:41:15] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set cobblestone
+[21:41:15] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:41:18] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:41:31] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set cobblestone
+[21:41:37] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:41:49] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /clear
+[21:41:49] [Server thread/INFO]: [ItsNikoPlayzYT: Cleared the inventory of ItsNikoPlayzYT, removing 9 items]
+[21:41:49] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:43:05] [Server thread/INFO]: RubitosanPlayz issued server command: /time set day
+[21:43:05] [Server thread/INFO]: [RubitosanPlayz: Set the time to 1000]
+[21:43:34] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /playsound cave_001
+[21:43:44] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /playsound cave_001 RubitosanPlayz
+[21:43:44] [Server thread/INFO]: [ItsNikoPlayzYT: Played sound 'cave_001' to RubitosanPlayz]
+[21:43:52] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /playsound cave_001 @a
+[21:43:52] [Server thread/INFO]: [ItsNikoPlayzYT: Played sound 'cave_001' to ItsNikoPlayzYT]
+[21:43:52] [Server thread/INFO]: [ItsNikoPlayzYT: Played sound 'cave_001' to RubitosanPlayz]
+[21:44:08] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //wand
+[21:44:10] [Server thread/INFO]: RubitosanPlayz issued server command: /brush fire
+[21:44:20] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
+[21:44:29] [Server thread/INFO]: RubitosanPlayz issued server command: /brush sphere coal
+[21:44:57] [Server thread/INFO]: RubitosanPlayz issued server command: /brush sphere oak_plank
+[21:45:07] [Server thread/INFO]: RubitosanPlayz issued server command: /brush spehere
+[21:45:10] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
+[21:45:14] [Server thread/INFO]: RubitosanPlayz issued server command: /brush sphere
+[21:45:20] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
+[21:45:25] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
+[21:45:27] [Async Chat Thread - #7/INFO]: <RubitosanPlayz> coke to my screen niko[m
+
+[21:45:29] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
+[21:45:49] [Async Chat Thread - #7/INFO]: <RubitosanPlayz> come*[m
+
+[21:46:21] [Server thread/INFO]: RubitosanPlayz issued server command: /brush sphere netherrack cobblestone 3
+[21:47:32] [Async Chat Thread - #8/INFO]: <ItsNikoPlayzYT> what is bad[m
+
+[21:48:27] [Server thread/INFO]: RubitosanPlayz issued server command: /weather clear
+[21:48:27] [Server thread/INFO]: [RubitosanPlayz: Changing to clear weather]
+[21:48:41] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /clesar
+[21:48:46] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /clear
+[21:48:46] [Server thread/INFO]: [ItsNikoPlayzYT: Cleared the inventory of ItsNikoPlayzYT, removing 6 items]
+[21:49:18] [Async Chat Thread - #9/INFO]: <RubitosanPlayz> MY PUNCHING BAG >:( !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![m
+
+[21:49:40] [Server thread/INFO]: RubitosanPlayz issued server command: /gamemode spectator
+[21:49:40] [Server thread/INFO]: [RubitosanPlayz: Set own game mode to Spectator Mode]
+[21:49:45] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /gamemode survival RubitosanPlayz
+[21:49:45] [Server thread/INFO]: [ItsNikoPlayzYT: Set RubitosanPlayz's game mode to Survival Mode]
+[21:49:49] [Server thread/INFO]: RubitosanPlayz issued server command: /ganmemode c
+[21:49:54] [Server thread/INFO]: RubitosanPlayz suffocated in a wall
+[21:50:07] [Server thread/WARN]: RubitosanPlayz moved too quickly! 0.31879660781504526,5.0,10.137714761134163 (0.31879660781504526, 5.0, 10.137714761134163)
+[21:50:12] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /summon structure
+[21:50:12] [Server thread/WARN]: Skipping Entity with id structure
+[21:50:12] [Server thread/INFO]: [ItsNikoPlayzYT: Unable to summon object]
+[21:50:27] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /summon structure village
+[21:50:27] [Server thread/WARN]: Skipping Entity with id structure
+[21:50:27] [Server thread/INFO]: [ItsNikoPlayzYT: Unable to summon object]
+[21:50:39] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:50:43] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:50:45] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:50:46] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:50:47] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:50:48] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:50:48] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:50:49] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:50:50] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:50:55] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //wand
+[21:51:10] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //replace water diamond_vlock
+[21:51:15] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //replace water diamond_block
+[21:51:25] [Server thread/INFO]: RubitosanPlayz issued server command: /gamemode c
+[21:51:25] [Server thread/INFO]: [RubitosanPlayz: Set own game mode to Creative Mode]
+[21:51:37] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //replace near cobblestone diamond_block
+[21:51:47] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //replace cobblestone diamond_block
+[21:52:01] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //replace cobblestone diamond_block
+[21:52:25] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //replace water diamond_block
+[21:52:28] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:52:30] [Server thread/INFO]: RubitosanPlayz issued server command: /undo
+[21:52:38] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //replace water diamond_block
+[21:53:05] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //replace air diamond_block
+[21:53:29] [Server thread/INFO]: ItsNikoPlayzYT issued server command: / brush py cobblestone 2
+[21:53:36] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush py cobblestone 2
+[21:54:07] [Server thread/INFO]: RubitosanPlayz issued server command: /time set day
+[21:54:07] [Server thread/INFO]: [RubitosanPlayz: Set the time to 1000]
+[21:54:22] [Async Chat Thread - #10/INFO]: <RubitosanPlayz> im gunna edit my skin to look cooler so brb[m
+
+[21:54:23] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush gravity diamond_block 5
+[21:54:30] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush gravity diamond_block 1
+[21:54:41] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush gravity 5
+[21:54:47] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:54:52] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:08] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush gravity 5
+[21:55:15] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:16] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:17] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:18] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:19] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:19] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:23] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:25] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:27] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:28] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:32] [Server thread/INFO]: RubitosanPlayz lost connection: Disconnected
+[21:55:32] [Server thread/INFO]: RubitosanPlayz left the game.
+[21:55:34] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:36] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:37] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:55:38] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:58:03] [Server thread/INFO]: ItsNikoPlayzYT lost connection: Disconnected
+[21:58:03] [Server thread/INFO]: ItsNikoPlayzYT left the game.
