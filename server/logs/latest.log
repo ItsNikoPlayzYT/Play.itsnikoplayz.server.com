@@ -214,3 +214,144 @@
 
 [20:59:45] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[21:02:07] [Thread-7/INFO]: UUID of player NikoPlayzYT is 19b7541c-ec9f-341e-ab22-90f8a88bb2f5
+[21:02:07] [Server thread/INFO]: NikoPlayzYT[/[0:0:0:0:0:0:0:1]:50194] logged in with entity id 399 at ([world]-231.5, 62.0, 248.5)
+[21:02:18] [Server thread/INFO]: NikoPlayzYT lost connection: Disconnected
+[21:02:18] [Server thread/INFO]: NikoPlayzYT left the game.
+[21:02:33] [Thread-8/INFO]: UUID of player ItsNikoPlayzYT is 50cb3cdc-83f0-3684-aa29-8188a37d0984
+[21:02:33] [Server thread/INFO]: ItsNikoPlayzYT[/[0:0:0:0:0:0:0:1]:53990] logged in with entity id 493 at ([world]-231.5, 69.0, 259.5)
+[21:02:54] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /lac update
+[21:02:54] [Craft Scheduler Thread - 1/INFO]: [LoginSecurity] Downloading file LoginSecurity-3.2.0-Bukkit (1).jar...
+[21:02:54] [Craft Scheduler Thread - 1/INFO]: [LoginSecurity] Download complete!
+[21:03:13] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /gamemode creative
+[21:03:13] [Server thread/INFO]: [ItsNikoPlayzYT: Set own game mode to Creative Mode]
+[21:03:24] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //wand
+[21:06:23] [Server thread/INFO]: ItsNikoPlayzYT lost connection: Timed out
+[21:06:23] [Server thread/INFO]: ItsNikoPlayzYT left the game.
+[21:11:43] [Thread-10/INFO]: UUID of player RubitosanPlayz is f43303d6-2e26-32ba-af33-56bfc81d598f
+[21:11:43] [Server thread/INFO]: RubitosanPlayz[/[0:0:0:0:0:0:0:1]:37398] logged in with entity id 846 at ([world]-236.5, 63.0, 250.5)
+[21:11:46] [Server thread/INFO]: RubitosanPlayz has just earned the achievement [Taking Inventory]
+[21:12:14] [Server thread/INFO]: RubitosanPlayz lost connection: Login timed out!
+[21:12:14] [Server thread/INFO]: RubitosanPlayz left the game.
+[21:12:14] [Server thread/WARN]: handleDisconnection() called twice
+[21:12:21] [Thread-11/INFO]: UUID of player RubitosanPlayz is f43303d6-2e26-32ba-af33-56bfc81d598f
+[21:12:21] [Server thread/INFO]: RubitosanPlayz[/[0:0:0:0:0:0:0:1]:44102] logged in with entity id 849 at ([world]-236.5, 63.0, 250.5)
+[21:12:59] [Server thread/INFO]: RubitosanPlayz issued server command: /weather clear
+[21:13:11] [Thread-12/INFO]: UUID of player ItsNikoPlayzYT is 50cb3cdc-83f0-3684-aa29-8188a37d0984
+[21:13:11] [Server thread/INFO]: ItsNikoPlayzYT[/[0:0:0:0:0:0:0:1]:57312] logged in with entity id 859 at ([world]-235.3686909723001, 82.75303173953775, 283.03026639916067)
+[21:13:14] [Async Chat Thread - #0/INFO]: <RubitosanPlayz> where r u and stop da rain[m
+
+[21:13:23] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /time set day
+[21:13:23] [Server thread/INFO]: [ItsNikoPlayzYT: Set the time to 1000]
+[21:13:30] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /weather clear
+[21:13:30] [Server thread/INFO]: [ItsNikoPlayzYT: Changing to clear weather]
+[21:13:44] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /tp @p RubitosanPlayz
+[21:13:44] [Server thread/INFO]: [ItsNikoPlayzYT: Teleported ItsNikoPlayzYT to RubitosanPlayz]
+[21:13:55] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /op
+[21:14:02] [Server thread/INFO]: RubitosanPlayz issued server command: /gamemode c
+[21:14:04] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /op RubitosanPlayz
+[21:14:04] [Server thread/INFO]: [ItsNikoPlayzYT: Opped RubitosanPlayz]
+[21:14:14] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /deop RubitosanPlayz
+[21:14:14] [Server thread/INFO]: [ItsNikoPlayzYT: De-opped RubitosanPlayz]
+[21:14:16] [Server thread/INFO]: RubitosanPlayz issued server command: /gamemode c
+[21:14:23] [Async Chat Thread - #1/INFO]: <RubitosanPlayz> my comm dont work[m
+
+[21:14:31] [Async Chat Thread - #1/INFO]: <RubitosanPlayz> do i start rec?[m
+
+[21:14:43] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /op RubitosanPlayz
+[21:14:43] [Server thread/INFO]: [ItsNikoPlayzYT: Opped RubitosanPlayz]
+[21:14:48] [Server thread/INFO]: RubitosanPlayz issued server command: /gamemode c
+[21:14:48] [Server thread/INFO]: [RubitosanPlayz: Set own game mode to Creative Mode]
+[21:14:54] [Async Chat Thread - #1/INFO]: <RubitosanPlayz> it work[m
+
+[21:15:03] [Async Chat Thread - #1/INFO]: <ItsNikoPlayzYT> opped you[m
+
+[21:15:30] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /give @p command_block
+[21:15:30] [Server thread/INFO]: [ItsNikoPlayzYT: Given [Command Block] * 1 to ItsNikoPlayzYT]
+[21:16:10] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
+[21:16:16] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:16:42] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /setblock glass 0
+[21:16:55] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /setblock -230 67 247
+[21:17:04] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /setblock -230 66 247 glass 0
+[21:17:04] [Server thread/INFO]: [ItsNikoPlayzYT: Block placed]
+[21:17:09] [Server thread/INFO]: RubitosanPlayz issued server command: /enchant @p knockback 5
+[21:17:09] [Server thread/INFO]: [RubitosanPlayz: The number you have entered (5) is too big, it must be at most 2]
+[21:17:10] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
+[21:17:17] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:17:30] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /worldedit
+[21:17:42] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /worldedit help
+[21:17:43] [Server thread/INFO]: RubitosanPlayz issued server command: /enchant rubitosanplayz knockback 5
+[21:17:43] [Server thread/INFO]: [RubitosanPlayz: The number you have entered (5) is too big, it must be at most 2]
+[21:18:11] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush stone 0
+[21:18:31] [Server thread/INFO]: RubitosanPlayz issued server command: /gamemode s
+[21:18:31] [Server thread/INFO]: [RubitosanPlayz: Set own game mode to Survival Mode]
+[21:18:38] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush sphere stone 0
+[21:18:48] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush sphere stone 0
+[21:18:55] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush sphere stone 10
+[21:18:59] [Server thread/INFO]: RubitosanPlayz issued server command: /gamemode s
+[21:18:59] [Server thread/INFO]: [RubitosanPlayz: Set own game mode to Survival Mode]
+[21:19:03] [Server thread/INFO]: RubitosanPlayz issued server command: /gamemode c
+[21:19:03] [Server thread/INFO]: [RubitosanPlayz: Set own game mode to Creative Mode]
+[21:19:06] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush sphere stone 200
+[21:19:11] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush sphere stone 5
+[21:19:16] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:19:21] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:19:23] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:19:23] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:19:24] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:19:25] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:19:26] [Async Chat Thread - #2/INFO]: <RubitosanPlayz> im gonna start rec k[m
+
+[21:19:39] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush sphere stone 2
+[21:19:46] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:19:54] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush smooth
+[21:20:00] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:20:01] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:20:02] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:20:04] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:20:05] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:20:06] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:20:07] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:20:08] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:20:09] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:20:47] [Server thread/INFO]: RubitosanPlayz lost connection: Disconnected
+[21:20:47] [Server thread/INFO]: RubitosanPlayz left the game.
+[21:22:16] [Thread-13/INFO]: UUID of player RubitosanPlayz is f43303d6-2e26-32ba-af33-56bfc81d598f
+[21:22:17] [Server thread/INFO]: RubitosanPlayz[/[0:0:0:0:0:0:0:1]:38474] logged in with entity id 1400 at ([world]-238.65435252087508, 62.0, 246.30000001192093)
+[21:22:28] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /brush sphere stone 2
+[21:22:34] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:22:47] [Server thread/INFO]: RubitosanPlayz lost connection: Login timed out!
+[21:22:47] [Server thread/INFO]: RubitosanPlayz left the game.
+[21:22:47] [Server thread/WARN]: handleDisconnection() called twice
+[21:22:48] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /pos 1
+[21:22:51] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //pos 1
+[21:22:54] [Thread-14/INFO]: UUID of player RubitosanPlayz is f43303d6-2e26-32ba-af33-56bfc81d598f
+[21:22:54] [Server thread/INFO]: RubitosanPlayz[/[0:0:0:0:0:0:0:1]:37958] logged in with entity id 1524 at ([world]-238.65435252087508, 62.0, 246.30000001192093)
+[21:22:55] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /help
+[21:23:05] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /bukkit
+[21:23:21] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /time set day
+[21:23:21] [Server thread/INFO]: [ItsNikoPlayzYT: Set the time to 1000]
+[21:23:25] [Server thread/INFO]: RubitosanPlayz lost connection: Login timed out!
+[21:23:25] [Server thread/INFO]: RubitosanPlayz left the game.
+[21:23:25] [Server thread/WARN]: handleDisconnection() called twice
+[21:23:30] [Thread-15/INFO]: UUID of player RubitosanPlayz is f43303d6-2e26-32ba-af33-56bfc81d598f
+[21:23:30] [Server thread/INFO]: RubitosanPlayz[/[0:0:0:0:0:0:0:1]:48148] logged in with entity id 1541 at ([world]-238.97179882265698, 62.242879994795324, 246.09932758137586)
+[21:25:08] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:25:24] [Async Chat Thread - #3/INFO]: <RubitosanPlayz> LAG!!!!!![m
+
+[21:25:59] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /gamemode spectator
+[21:25:59] [Server thread/INFO]: [ItsNikoPlayzYT: Set own game mode to Spectator Mode]
+[21:26:17] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /gamemoe creative
+[21:26:25] [Server thread/INFO]: ItsNikoPlayzYT issued server command: /gamemode creative
+[21:26:25] [Server thread/INFO]: [ItsNikoPlayzYT: Set own game mode to Creative Mode]
+[21:26:40] [Async Chat Thread - #4/INFO]: <RubitosanPlayz> bro i have too much lag :([m
+
+[21:27:06] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
+[21:27:19] [Server thread/INFO]: RubitosanPlayz issued server command: //undo
+[21:27:22] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:27:29] [Server thread/INFO]: RubitosanPlayz issued server command: /weather clear
+[21:27:29] [Server thread/INFO]: [RubitosanPlayz: Changing to clear weather]
+[21:28:01] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
+[21:28:08] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
+[21:28:33] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //set 0
+[21:28:54] [Server thread/INFO]: ItsNikoPlayzYT issued server command: //undo
